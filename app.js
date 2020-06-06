@@ -15,7 +15,7 @@ const courses = [
 
 /// Get base request to test the api end point
 app.get('/', (req, res) => {
-    res.send('Welcome to Node JS demo!');
+    res.send('Welcome to Node JS demo!!!');
 });
 
 /// Get all the courses 
